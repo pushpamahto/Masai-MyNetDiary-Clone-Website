@@ -18,6 +18,7 @@ import slider3 from '../assets/slider/slider3.png';
 
 
 
+
 const Aboutsec = () => {
   return (
     <>
